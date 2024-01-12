@@ -20,8 +20,6 @@ The motivation: When we think of Disney films, we feel a rush of nostalgia, as i
 
 The dataset: The dataset was extracted from the Disney Fandom Wiki webpage, and it contains all the character villains from Dinsey. That includes characters from different universes, e.g Marvel, Pixar, Star Wars, Walt Disney and other. After having built and visualized the network, we decided to narrow the scope and maintaining at least some possibility of analysing information about the dataset, do to lack of internal connections in the whole Disney Villains dataset. We then chose to select a subset of the data, that represents one universe, Marvel. <br>
 
-The goal: The goal of the project was to find something interesting in the dataset. <br>
-
 
 2. Basic statistics <br>
 2.1 Cleaning and pre-processing the data <br>
